@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Nate Manwaring's Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/NATE-MANWARING/Programming1Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
