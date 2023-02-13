@@ -6,11 +6,15 @@
 graphic based OOP calculator
 ![Running Calculator](https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/Images/calc.png?raw=true)
 
-[Source code]()
+[Source code]([https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/src/Calculator.pde](https://github.com/NATE-MANWARING/Programming1Portfolio/tree/gh-pages/src/Calculator))
 
 ### SpaceGame
+top-down spaceship game
+![space game](https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/Images/SpaceGame.png)
 
-### Screensaver
+[source code] (https://github.com/NATE-MANWARING/Programming1Portfolio/tree/gh-pages/src/SpaceGame)
+
+### Etch-A-Sketch
 
 ## Programming 2 semester 2 projects
 
