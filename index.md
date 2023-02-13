@@ -4,7 +4,8 @@
 
 ### OOP Calculator
 graphic based OOP calculator
-![Running Calculator]()
+![Running Calculator](https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/Images/calc.png?raw=true)
+
 [Source code]()
 
 ### SpaceGame
