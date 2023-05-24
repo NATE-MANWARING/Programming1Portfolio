@@ -1,6 +1,10 @@
 # Welcome to Nate Manwaring's Programming Portfolio
-
-## Programming 1 semester 1 projects
+nathmanw9690@granitesd.org
+## Chess Group Project
+processing drag-and-drop multiplayer chess game
+![Chess Game](https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/Images/Chess.png)
+[Group repo](https://github.com/9620728/Java-Group-1)
+## Programming 1 projects
 
 ### OOP Calculator
 graphic based OOP calculator
