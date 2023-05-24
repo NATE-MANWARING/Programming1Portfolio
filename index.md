@@ -20,6 +20,17 @@ user controlled drawing basic program
 
 [source code](https://github.com/NATE-MANWARING/Programming1Portfolio/tree/gh-pages/src/etch-a-sketch)
 
-## Programming 2 semester 2 projects
 
-### ShapeTester
+### ScreenSaver
+Automatic screensaver graphics app
+![ScreenSaver](https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/Images/ScreenSaver.png)
+
+[source code](https://github.com/NATE-MANWARING/Programming1Portfolio/tree/gh-pages/src/screensaver)
+
+
+
+### Cars
+Uses arrays to make graphics based cars
+![Cars](https://github.com/NATE-MANWARING/Programming1Portfolio/blob/gh-pages/Images/Cars.png)
+
+[source code](https://github.com/NATE-MANWARING/Programming1Portfolio/tree/gh-pages/src/cars)
